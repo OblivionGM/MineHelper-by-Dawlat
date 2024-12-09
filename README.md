@@ -1,6 +1,6 @@
 # MineHelper by Dawlat
 
-**Версия**: 1.5.1  
+**Версия**: 1.5.2  
 **Автор**: Dawlat  
 **Платформа**: [MoonLoader](https://blast.hk/moonloader/)
 
