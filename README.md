@@ -28,7 +28,7 @@ MineHelper — это мощный скрипт для облегчения иг
 ## Установка
 
 1. Скачайте последнюю версию скрипта из [репозитория](https://github.com/OblivionGM/MineHelper-by-Dawlat).
-2. Переместите файл `MineHelper_by_Dawlat` в папку `moonloader` вашей SAMP-сборки.
+2. Переместите файл `MineHelper_by_Dawlat.luac` в папку `moonloader` вашей SAMP-сборки.
 3. Перезапустите игру.
 
 ## Использование
